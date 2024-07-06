@@ -125,19 +125,19 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
-    {
-      schoolName: "University of South Florida",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Engineering Management",
-      duration: "December 2022 - December 2023",
-      desc: "Participated in the Graduate Assistant",
-      descBullets: []
-    },
+    // {
+    //   schoolName: "University of South Florida",
+    //   logo: require("./assets/images/harvardLogo.png"),
+    //   subHeader: "Master of Science in Engineering Management",
+    //   duration: "December 2010 - December 2014",
+    //   desc: "Participated in the Graduate Assistant",
+    //   descBullets: []
+    // },
     {
       schoolName: "Andhra University",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Engineering",
-      duration: "September 2014 - April 2018",
+      duration: "September 2010 - April 2014",
       desc: "Ranked top 10% in the program.",
       descBullets: []
     }
